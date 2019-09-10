@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD            - The modification in the base branch (HEAD)
 Modification 2
+=======                 - Modification Delimiter, where modification in one part stops and another begins.
+Modification 1
+>>>>>>> feature1        -
